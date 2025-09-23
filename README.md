@@ -6,12 +6,11 @@
 
 ## 🚀 About Me
 
-**I believe your smartphone camera can spot health problems before you feel them** - Currently developing **Previa Health**, leveraging computer vision and data science to discover insights that enable proactive health interventions and longevity optimization. Think of it as having a really smart physiotherapist in your pocket who catches things way before they become a problem.
+**I believe your smartphone camera can spot health problems before you feel them** - Currently building **Previa Health**, where I'm teaching computers to see movement patterns that predict future pain. Think of it as having a really smart physiotherapist in your pocket.
 
 - 🔬 **Research:** Position-invariant pose estimation at University of Bonn
 - 🎓 **Education:** Computer Science B.Sc. under Prof. Jürgen Gall (Lamarr Institute) 
 - 🎯 **Mission:** Making complex health analytics so accessible your grandma could do it
-- 🌍 **Vision:** Enabling personalized prevention through AI-driven health insights
 - ☕ **Currently:** Bouncing between Munich and Köln, hunting for co-founders and good coffee
 
 ---
@@ -29,7 +28,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Web & Mobile
@@ -55,58 +53,14 @@
 
 ## 🏆 Current Projects
 
-### 🩺 [Previa Health](https://previa.health) 
-**AI-Powered Health Pattern Discovery & Prevention Platform**
-- 📱 **Smartphone-based** computer vision for movement pattern analysis
-- 🧠 **Custom ML Models** for discovering hidden health correlations  
-- 💰 **€300k Pre-seed** secured from healthcare + AI Angels
-- 📊 **Clinical Studies** in progress with SpoHo Cologne und UniKlinik Bonn
-- 🔬 **Research Focus:** Uncovering predictive biomarkers in movement data
+### 🩺 [Previa Health](https://previa.health) - AI-powered health pattern discovery using smartphone computer vision
 
-`#ComputerVision` `#HealthAnalytics` `#PreventiveMedicine` `#DataScience`
+### 🏃‍♂️ [ATHLY](https://Athly.de) (2024) - Multimodal fitness coach with chat, voice & camera interaction
 
-### 🏃‍♂️ [ATHLY](https://Athly.de) (2024)
-**Multimodal Health Intelligence** - Built before ChatGPT made AI agents mainstream
-- 🤖 **Multimodaler AI Coach** - Chat, Sprache, Bilder
-- 🧠 **Behavioral Pattern Recognition**
-- ⏰ **Smart Timing** - Optimised Workout-times
+### ⚡ Energy Forecast System (2023) - LSTM + RandomForest beating meteorologists at renewable energy prediction
 
-### ⚡ Energy Forecast System (2023)
-**Renewable energy prediction beating meteorologists**
-- 🌤️ **LSTM + Random Forest** models processing nationwide German weather data
-- 📊 **Higher accuracy** than standard meteorological systems for agricultural planning
-- 🌱 **Impact:** Because clean energy needs smart predictions
-- 🔧 **Tech Stack:** Python, Neural Networks, Time Series Analysis, Large-scale Data Processing
-
-`#MachineLearning` `#TimeSeriesAnalysis` `#RenewableEnergy` `#ClimateAction`
 
 ---
-
-## 📈 Activity Graph
-[![Eren's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s6endemi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🎯 2025 Goals
-
-- [ ] 📚 Publish research on position-invariant pose estimation
-- [ ] 🔬 Complete clinical validation studies for health pattern discovery
-- [ ] 🤝 Find the perfect technical co-founder in Munich
-- [ ] 📖 Open-source core computer vision algorithms
-
----
-
-## 🔥 Highlights
-
-- 🎓 **Bachelor's Thesis** supervised by Prof. Jürgen Gall (Lamarr Institute)
-- 💡 **4+ Years** in AI/ML with focus on health applications
-- 🚀 **University of Bonn Accelerator** participant  
-- 🏆 **Pre-seed Funding** secured before I even had a real product (somehow)
-- 🎹 **Piano Improvisation** enthusiast (AI-generated compositions coming soon!)
-- ☕ **Digital Nomad** - if there's WiFi and espresso, I can work there
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -116,17 +70,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=s6endemi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-**"Discovering patterns that prevent suffering before it starts"** 🌟
-
 </div>
 
 ---
