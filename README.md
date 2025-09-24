@@ -1,6 +1,5 @@
 # Hey there, I'm Eren! 👋
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=AI+Engineer+%26+Technical+Founder;Computer+Vision+Researcher;Building+the+Future+of+Healthcare;Discovering+Hidden+Health+Patterns)](https://git.io/typing-svg)
 
