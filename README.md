@@ -10,7 +10,7 @@
 - 🔬 **Research:** Position-invariant pose estimation at University of Bonn
 - 🎓 **Education:** Computer Science B.Sc. under Prof. Jürgen Gall (Lamarr Institute) 
 - 🎯 **Mission:** Making complex health analytics so accessible your grandma could do it
-- ☕ **Currently:** Bouncing between Munich and Köln, hunting for co-founders and good coffee
+- ☕ **Currently:** Bouncing between Munich and Köln, hunting for founding members and good coffee
 
 ---
 
