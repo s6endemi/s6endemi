@@ -9,7 +9,7 @@ I build products at the intersection of movement, healthcare, and AI. I'm curren
 
 - 🎓 **Education:** Computer Science B.Sc. under Prof. Jürgen Gall (Lamarr Institute) 
 - 🎯 **Focus:** Turning complex health and movement data into useful, understandable products
-- ☕ **Currently:** Bouncing between Cologne and Munich — usually somewhere between good coffee, ambitious ideas, and things worth building
+- ☕ **Currently:** Bouncing between Cologne and Munich - usually somewhere between good coffee, ambitious ideas, and things worth building
 
 ---
 
