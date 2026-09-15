@@ -1,16 +1,15 @@
 # Hey there, I'm Eren! 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=AI+Engineer+%26+Technical+Founder;Computer+Vision+Researcher;Building+the+Future+of+Healthcare;Discovering+Hidden+Health+Patterns)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=520&lines=Technical+Founder+%26+Product+Builder;Health%2C+Movement+%26+Computer+Vision;Building+Human-Centered+Health+Technology)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
-**I believe your smartphone camera can spot health problems before you feel them** - Currently building **Previa Health**, where I'm teaching computers to see movement patterns that predict future pain. Think of it as having a really smart physiotherapist in your pocket.
+I build products at the intersection of movement, healthcare, and AI. I'm currently building **Previa Health**, making smartphone-based movement analysis more accessible and understandable.
 
-- 🔬 **Research:** Position-invariant pose estimation at University of Bonn
 - 🎓 **Education:** Computer Science B.Sc. under Prof. Jürgen Gall (Lamarr Institute) 
-- 🎯 **Mission:** Making complex health analytics so accessible your grandma could do it
-- ☕ **Currently:** Bouncing between Munich and Köln, hunting for founding members and good coffee
+- 🎯 **Focus:** Turning complex health and movement data into useful, understandable products
+- ☕ **Currently:** Bouncing between Cologne and Munich — usually somewhere between good coffee, ambitious ideas, and things worth building
 
 ---
 
@@ -52,11 +51,15 @@
 
 ## 🏆 Current Projects
 
-### 🩺 [Previa Health](https://previa.health) - AI-powered health pattern discovery using smartphone computer vision
+### 🩺 [Previa Health](https://previa.health) — Smartphone-based movement analysis
 
-### 🏃‍♂️ [ATHLY](https://Athly.de) (2024) - Multimodal fitness coach with chat, voice & camera interaction
+## 🔧 Selected Work
 
-### ⚡ Energy Forecast System (2023) - LSTM + RandomForest beating meteorologists at renewable energy prediction
+### 🧍 [Pose Estimation Accuracy Comparison](https://github.com/s6endemi/Bachelor-Posedetection) — Comparing MediaPipe, MoveNet, and YOLOv8-Pose across body rotation angles
+
+### 🎵 [VibeSync Pro](https://github.com/s6endemi/AiMusikGenerator) — AI-assisted video-to-music workflow with deterministic audio processing
+
+### 🏃‍♂️ [ATHLY](https://athly.de) — Multimodal fitness coach with chat, voice, and camera interaction
 
 
 ---
